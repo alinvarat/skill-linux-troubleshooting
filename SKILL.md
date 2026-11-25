@@ -1,6 +1,6 @@
 ---
 name: linux-troubleshooting
-description: Diagnose Linux incidents in CPU, memory, disk, services, networking, databases, TLS, backups or deployments.
+description: Diagnose Linux incidents in CPU, memory, disk, services, networking, databases, TLS, backups or deployments; also check the real unit and recovery before a routine service restart/reload.
 license: MIT
 metadata:
   portable: true
